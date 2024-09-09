@@ -1,2 +1,2 @@
 # flag1
-CTF
+CEC{k@k1_s74lk_oR4nG}
